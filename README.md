@@ -44,8 +44,6 @@ cd backend/
 python manage.py runserver
 ```
 
-### 🔹 Ayrıca start.bat dosyasını da çalıştırarak kullanabilirsiniz 😊
-
 🔗 **Program sabit olarak şu adreste çalışır:** [`127.0.0.1:8000`](http://127.0.0.1:8000) adresine giderek projeyi sorunsuz bir şekilde görüntüleyebilirsiniz. 🚀🌍
 
 ---
