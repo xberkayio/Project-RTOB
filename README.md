@@ -70,3 +70,4 @@ Bu proje açık kaynaklıdır. **Lisans bilgileri ve iletişim detayları için 
 
 🎉 **Projeye destek veren herkese teşekkürler!** 🇹🇷🇷🇺
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xberkay-o&label=Profile%20views&color=0e75b6&style=flat" alt="xberkay-o" /> </p>
